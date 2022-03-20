@@ -6,7 +6,7 @@
 
 <img align="left" alt="Chaojian Zhang's Github Stats (Anurag's github stats)" src="https://github-readme-stats.vercel.app/api?username=DelinM&count_private=true&theme=gruvbox&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelinM&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I am working as a Generalist Programmer at BBI as of 2022
 - 🎮 I am a fan of Dwarf Fortress
