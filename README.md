@@ -13,5 +13,5 @@
 - 🎢 I love coding! From web scraping to frontend design. From machine learning to database construction. I've done it all. 
 - ✈️ My scripts save my employer over $20K per year!
 - ♥️ My favourite programming language is Python. I lead a coding initative team now!
-- 🎶 I learn to improve my coding skills everyday. I want everyone benefit from my scripts! 
+- 🎶 I improve my coding skills everyday. I want everyone benefit from my scripts! 
 - 🔭 Every week, I will be developing a coding solution/example to simply your daily business process.
