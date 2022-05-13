@@ -9,7 +9,7 @@
 - :zap: A Professional Engineer praciting in Toronto, Canada.
 - 📈 Taking a serious charge into Tech Industry! 
 - 🎢 My typical engineering design project can worth over $20M.
-- :star2: I started coding in 2019!
+- :star2: I started coding in 2019!  
 - 🎢 I love coding! From web scraping to frontend design. From machine learning to database construction. I've done it all. 
 - ✈️ My scripts save my employer over $20K per year!
 - ♥️ My favourite programming language is Python. I lead a coding initative team now!
