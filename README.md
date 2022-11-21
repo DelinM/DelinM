@@ -7,9 +7,8 @@
 
 
 - :zap: A Professional Engineer praciting in Toronto, Canada.
-- 📈 Taking a serious charge into Tech Industry! 
-- 🎢 My typical engineering design project can worth over $20M.
+- 🎢 I have managed 2 Managed 2 multi‑million‑dollar infrastructure projects as an engineering consulting manager.
 - :star2: I started coding in 2019!  
-- 🎢 I love coding! From web scraping to frontend design. From machine learning to database construction. I've done it all. 
-- ✈️ My scripts save my employer over $10.1K per year!
+- 🎢 I love coding! From web scraping to business integllience system. From machine learning to database construction. I've done it all. 
+- ✈️ My scripts save my employer roughly $25.1K per year (equivalent to 279 man hours/year)!
 - 🎶 I improve my coding skills everyday. I want everyone benefit from my scripts! 
